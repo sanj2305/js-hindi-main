@@ -9,7 +9,7 @@ accountEmail = "hc@hc.com";
 accountPassword = "66666";
 accountCity = "Bengaluru";
 let accountState;
-// accountCity = "Gokaka";
+accountCity = "Gokaka";
 console.log(accountId);
 
 /* Prefar not to use var
